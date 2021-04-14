@@ -1,2 +1,2 @@
-Proyecto Realizado en PHP con el framework de PHP
+Proyecto Realizado con el lenguaje de PHP
 El proyecto consiste en la realizacion de una plataforma para el control de datos.
